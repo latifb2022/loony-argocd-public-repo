@@ -11,7 +11,7 @@ spec:
       app: nginx
   template:
     metadata:
-      labesl:
+      labes:
         app: nginx
     spec:
       containers:
