@@ -13,8 +13,8 @@ spec:
     metadata:
       labesl:
         app: nginx
-      spec:
-        containers:
-        - image: nginx
-          name: nginx   
+    spec:
+      containers:
+      - image: nginx
+        name: nginx   
 
